@@ -2,7 +2,9 @@
 A collection of Python projects built while learning programming in Class 11/12 and preparing for college.
 
 📁 Projects
-ProjectDescriptionConcepts UsedNumber GuessorCustom difficulty number guessing game with highscore trackingLoops, flags, random module
+1) Number Guessor
+          Custom difficulty number guessing game with highscore tracking
+          Loops, flags, random module
 
 🧠 Skills Being Learned
 
