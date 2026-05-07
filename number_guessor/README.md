@@ -8,7 +8,7 @@ Run the program Set your difficulty by entering a max number (e.g. 100, 500, 100
 
 Custom difficulty — player sets the max range Attempt counter — tracks how many guesses each round Highscore system — saves your best score across rounds Play again option — without restarting the program Input validation — handles out-of-range numbers
 
-▶️ How to Run Make sure Python is installed, then run: python number_guessor.py
+▶️ How to Run : Make sure Python is installed, then run: python number_guessor.py
 
 🧠 Concepts Used
 
